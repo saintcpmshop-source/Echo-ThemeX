@@ -1,0 +1,13 @@
+APP_VER            = 01.00
+ATTRIBUTE          = 0
+BOOTABLE           = 1
+CATEGORY           = HG
+CONTENT_ID         = UP0001-ETHMEX001_00-ETHMEX0000000001
+LICENSE            = Copyright (c) 2026 Echo ThemeX
+PARENTAL_LEVEL     = 1
+PS3_SYSTEM_VER     = 03.5500
+RESOLUTION         = 1920x1080
+SOUND_FORMAT       = 1
+TITLE              = Echo ThemeX
+TITLE_ID           = ETHMEX001
+VERSION            = 01.00

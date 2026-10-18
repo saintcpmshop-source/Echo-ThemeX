@@ -1,0 +1,7 @@
+build/
+dist/
+*.o
+*.elf
+*.self
+*.pkg
+src/embedded_themes.c
